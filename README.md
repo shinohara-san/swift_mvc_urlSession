@@ -1,6 +1,6 @@
 # swift_mvc_urlSession
 
-![スクショ](image/screenshot1.png "スクショ")
+![スクショ](image/screenshot2.png "スクショ")
  
 ## Features
  
